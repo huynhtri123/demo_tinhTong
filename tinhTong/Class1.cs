@@ -19,5 +19,9 @@ namespace tinhTong
         {
             Console.WriteLine("Cuoi gi vay");
         }
+        public void traLoi()
+        {
+            Console.WriteLine("Mac cuoi");
+        }
     }
 }

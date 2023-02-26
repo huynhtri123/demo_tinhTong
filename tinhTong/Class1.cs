@@ -8,5 +8,8 @@ namespace tinhTong
 {
     internal class Class1
     {
+        public void cuoi()
+        { Console.WriteLine("haha");
+        }
     }
 }

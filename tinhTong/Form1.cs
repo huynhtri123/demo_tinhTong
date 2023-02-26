@@ -23,6 +23,7 @@ namespace tinhTong
             int b = Convert.ToInt32(textBox2.Text);
             int kq = a + b;
             label1.Text = Convert.ToString(kq);
+            label2.Text = Convert.ToString(kq + 0);
         }
     }
 }

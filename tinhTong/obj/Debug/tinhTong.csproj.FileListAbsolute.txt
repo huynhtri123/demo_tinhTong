@@ -1,0 +1,11 @@
+D:\Nam2\HK2\LapTrinhWindow\Code\tinhTong\tinhTong\bin\Debug\tinhTong.exe.config
+D:\Nam2\HK2\LapTrinhWindow\Code\tinhTong\tinhTong\bin\Debug\tinhTong.exe
+D:\Nam2\HK2\LapTrinhWindow\Code\tinhTong\tinhTong\bin\Debug\tinhTong.pdb
+D:\Nam2\HK2\LapTrinhWindow\Code\tinhTong\tinhTong\obj\Debug\tinhTong.csproj.AssemblyReference.cache
+D:\Nam2\HK2\LapTrinhWindow\Code\tinhTong\tinhTong\obj\Debug\tinhTong.csproj.SuggestedBindingRedirects.cache
+D:\Nam2\HK2\LapTrinhWindow\Code\tinhTong\tinhTong\obj\Debug\tinhTong.Form1.resources
+D:\Nam2\HK2\LapTrinhWindow\Code\tinhTong\tinhTong\obj\Debug\tinhTong.Properties.Resources.resources
+D:\Nam2\HK2\LapTrinhWindow\Code\tinhTong\tinhTong\obj\Debug\tinhTong.csproj.GenerateResource.cache
+D:\Nam2\HK2\LapTrinhWindow\Code\tinhTong\tinhTong\obj\Debug\tinhTong.csproj.CoreCompileInputs.cache
+D:\Nam2\HK2\LapTrinhWindow\Code\tinhTong\tinhTong\obj\Debug\tinhTong.exe
+D:\Nam2\HK2\LapTrinhWindow\Code\tinhTong\tinhTong\obj\Debug\tinhTong.pdb

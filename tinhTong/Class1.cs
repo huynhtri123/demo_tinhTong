@@ -11,5 +11,13 @@ namespace tinhTong
         public void cuoi()
         { Console.WriteLine("haha");
         }
+        public void hoi()
+        {
+            Console.WriteLine("Cuoi gi?");
+        }
+        public void hoi2()
+        {
+            Console.WriteLine("Cuoi gi vay");
+        }
     }
 }

@@ -23,5 +23,9 @@ namespace tinhTong
         {
             Console.WriteLine("Mac cuoi");
         }
+        public void traLoi2()
+        {
+            Console.WriteLine("OK");
+        }
     }
 }
